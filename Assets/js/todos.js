@@ -21,6 +21,7 @@ $("input[type='text'").keypress(function(event){
     }
 });
 
+
 //toggling between plus and minus icon
 $(".fa-minus").click(function(){
     $("input[type='text'").fadeToggle("fast");
