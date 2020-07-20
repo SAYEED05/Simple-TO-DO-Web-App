@@ -1,1 +1,1 @@
-this is a simple todo web app using basic HTML/CSS and javaScript.I took icons from fontawesome.com and background gradient from uigradients.com
+this is a simple todo web app using basic HTML/CSS and javaScript.I took icons from fontawesome.com and background gradient from uigradients.com.to view live version visit https://sayeed05.github.io/Simple-TO-DO-Web-App/
